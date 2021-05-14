@@ -123,3 +123,10 @@ a.active {
   display: flex;
   justify-content: space-between;
 }
+
+#firstClass-increment,
+#firstClass-decrement,
+#economy-increment,
+#economy-decrement {
+  cursor: pointer;
+}

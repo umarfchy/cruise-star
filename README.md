@@ -1,3 +1,7 @@
-# milestone-4-cruise-queen
+# Cruise Star
 
-live site: https://unzippinglinux.github.io/milestone-4-cruise-queen/
+- Booking ticket for cruise
+- Adding booking date
+- Calculate price of total booked ticket using JavaScript
+
+visit [here]
