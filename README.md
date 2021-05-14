@@ -4,4 +4,4 @@
 - Adding booking date
 - Calculate price of total booked ticket using JavaScript
 
-visit the site [here](https://umarfchy.github.io/cruise-start/index.html)
+visit the site [HERE](https://umarfchy.github.io/cruise-start/index.html)
